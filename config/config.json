@@ -1,0 +1,19 @@
+{
+  "development": {
+    "url": "postgres://zeycdapy:1cS86ogyVxotGYjeBejX0e_pq3yqD00Y@hattie.db.elephantsql.com/zeycdapy"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
